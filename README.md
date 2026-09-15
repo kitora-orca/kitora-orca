@@ -1,7 +1,7 @@
 # Blooob~~ im a Fishi
 
 [![nginx](https://img.shields.io/badge/-good%20boy-000000?style=flat&logo=nginx&logoColor=0E9748)](https://nginx.org/)
-[![Burp Suite](https://img.shields.io/badge/-the%20kid%20your%20mom%20always%20compares%20you%20to-rgb%28255%2C102%2C51%29?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Burp Suite](https://img.shields.io/badge/-the%20kid%20your%20mom%20always%20compares%20you%20to-181A1B?style=flat&logo=burpsuite&logoColor=AD2B00)](https://portswigger.net)
 [![Linux](https://img.shields.io/badge/-zoo-rgb%28252%2C198%2C36%29?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Hashcat](https://img.shields.io/badge/-the%20neighbor%27s%20wi--fi-rgb%28180%2C45%2C45%29?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
 [![Wireshark](https://img.shields.io/badge/-understood%2C%20acknowledged-rgb%2822%2C122%2C186%29?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
