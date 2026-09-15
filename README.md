@@ -1,6 +1,6 @@
 # Blooob~~ im a Fishi
 
-[![nginx](https://img.shields.io/badge/-good%20boy-#944762?style=flat&logo=nginx&logoColor=#949209)](https://nginx.org/)
+[![nginx](https://img.shields.io/badge/-good%20boy-1CF9FF?style=flat&logo=nginx&logoColor=07FF06)](https://nginx.org/)
 [![Burp Suite](https://img.shields.io/badge/-the%20kid%20your%20mom%20always%20compares%20you%20to-rgb%28255%2C102%2C51%29?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![Linux](https://img.shields.io/badge/-zoo-rgb%28252%2C198%2C36%29?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Hashcat](https://img.shields.io/badge/-the%20neighbor%27s%20wi--fi-rgb%28180%2C45%2C45%29?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
