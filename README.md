@@ -47,7 +47,12 @@
 </div>
 
 ---
-<div align=center>
-[![NyaDrown](img/1.gif)]([https://nekos.life/](https://nekos.life/))
-[![NyaPhoto](img/2.gif)]([https://genrandom.com/cats/](https://genrandom.com/cats/))
-</div>
+
+<p align="center">
+  <a href="https://nekos.life/">
+    <img src="img/1.gif" alt="NyaDrown">
+  </a>
+  <a href="https://genrandom.com/cats/">
+    <img src="img/2.gif" alt="NyaPhoto">
+  </a>
+</p>
