@@ -40,6 +40,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![HTML5](https://img.shields.io/badge/-HTML_5-rgb%28227%2C76%2C38%29?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ---
 
