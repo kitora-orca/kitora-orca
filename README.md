@@ -25,7 +25,7 @@
 
 [![Zsh](https://img.shields.io/badge/-cool-rgb%2880%2C80%2C80%29?style=flat&logo=zsh&logoColor=white)](https://www.zsh.org/)
 
-[![OWASP](https://img.shields.io/badge/-may%20God%20protect%20you-rgb%280%2C0%2C0%29?style=flat&logo=owasp&logoColor=white)](https://owasp.org/)
+[![OWASP](https://img.shields.io/badge/-may%20god%20protect%20you-rgb%280%2C0%2C0%29?style=flat&logo=owasp&logoColor=white)](https://owasp.org/)
 
 [![VMware](https://img.shields.io/badge/-convenient%2C%20but%20sometimes%20nonsense-rgb%2896%2C112%2C120%29?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
@@ -64,7 +64,7 @@ javascript - nice
 docker - hallelujah?!
 postgresql - why is it like that?
 zsh - cool
-owasp - may God protect you
+owasp - may god protect you
 vmware - convenient, but sometimes nonsense
 gnubash - that’s great, but everyone makes mistakes sometimes
 debian - my hony quiet and cozy little spot
