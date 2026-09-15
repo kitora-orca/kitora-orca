@@ -1,11 +1,8 @@
 # Blooob~~ im a Fishi
 
-[![love <3](https://img.shields.io/badge/love-ffffff?style=flat&logo=undertale&logoColor=blue)](#)
-
-
-[![nginx](https://img.shields.io/badge/-good%20boy-rgb%280%2C150%2C57%29?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)(#)
-[![Burp Suite](https://img.shields.io/badge/-the%20kid%20your%20mom%20always%20compares%20you%20to-rgb%28255%2C102%2C51%29?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)(#)
-[![Linux](https://img.shields.io/badge/-zoo-rgb%28252%2C198%2C36%29?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)(#)
+[![nginx](https://img.shields.io/badge/-good%20boy-rgb%280%2C150%2C57%29?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Burp Suite](https://img.shields.io/badge/-the%20kid%20your%20mom%20always%20compares%20you%20to-rgb%28255%2C102%2C51%29?style=flat&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Linux](https://img.shields.io/badge/-zoo-rgb%28252%2C198%2C36%29?style=flat&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Hashcat](https://img.shields.io/badge/-the%20neighbor%27s%20wi--fi-rgb%28180%2C45%2C45%29?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
 [![Wireshark](https://img.shields.io/badge/-understood%2C%20acknowledged-rgb%2822%2C122%2C186%29?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Python](https://img.shields.io/badge/-thank%20you%20for%20existing-rgb%28377%2C177%2C250%29?style=flat&logo=python&logoColor=white)](https://www.python.org/)
