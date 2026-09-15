@@ -6,7 +6,6 @@
 [![Hashcat](https://img.shields.io/badge/-the%20neighbor%27s%20wi--fi-rgb%28180%2C45%2C45%29?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
 [![Wireshark](https://img.shields.io/badge/-understood%2C%20acknowledged-rgb%2822%2C122%2C186%29?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Python](https://img.shields.io/badge/-thank%20you%20for%20existing-rgb%28377%2C177%2C250%29?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![SIEM](https://img.shields.io/badge/-full%20of%20holes-rgb%28220%2C55%2C70%29?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/security/siem)
 [![JavaScript](https://img.shields.io/badge/-nice-rgb%28247%2C223%2C30%29?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Docker](https://img.shields.io/badge/-hallelujah%3F%21-rgb%2836%2C150%2C237%29?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/-why%20is%20it%20like%20that%3F-rgb%2851%2C103%2C145%29?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -44,7 +43,6 @@ linux - zoo
 hashcat - the neighbor's wi-fi
 wireshark - understood, acknowledged
 python - thank you for existing
-siem - full of holes
 javascript - nice
 docker - hallelujah?!
 postgresql - why is it like that?
