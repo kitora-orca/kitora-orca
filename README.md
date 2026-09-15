@@ -29,6 +29,7 @@
 ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat)
 ![Sigma](https://img.shields.io/badge/Sigma-6C63FF?style=flat)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat)
+[![Nmap](https://img.shields.io/badge/-Nmap-2A6DB0?style=flat&logo=nmap&logoColor=FFFFFF)](https://nmap.org/)
 
 
 [![familiar](https://img.shields.io/badge/familiar-ffffff?style=flat)](#)
