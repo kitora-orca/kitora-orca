@@ -13,6 +13,7 @@
 [![OWASP](https://img.shields.io/badge/-may%20god%20protect%20you-rgb%280%2C0%2C0%29?style=flat&logo=owasp&logoColor=white)](https://owasp.org/)
 [![VMware](https://img.shields.io/badge/-convenient%2C%20but%20sometimes%20nonsense-rgb%2896%2C112%2C120%29?style=flat&logo=vmware&logoColor=white)](https://www.vmware.com/)
 [![GNU Bash](https://img.shields.io/badge/-that%E2%80%99s%20great%2C%20but%20everyone%20makes%20mistakes%20sometimes-rgb%2845%2C155%2C75%29?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![OpenBugBounty](https://img.shields.io/badge/-ladies%20and%20gentlemen%2C%20let%20the%20hunger%20games%20begin%21-rgb%28230%2C65%2C55%29?style=flat&logo=openbugbounty&logoColor=white)](https://www.openbugbounty.org/)
 [![Debian](https://img.shields.io/badge/-my%20hony%20quiet%20and%20cozy%20little%20spot-rgb%28215%2C10%2C83%29?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Kali Linux](https://img.shields.io/badge/-my%20favorite%20partner%2C%20no%20matter%20what-rgb%2838%2C104%2C177%29?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Arch Linux](https://img.shields.io/badge/-those%20nights%20were%20unforgettable.%20would%20i%20want%20to%20repeat%20them%3F%20no...-rgb%2823%2C147%2C209%29?style=flat&logo=archlinux&logoColor=white)](https://archlinux.org/)
@@ -50,6 +51,7 @@ zsh - cool
 owasp - may god protect you
 vmware - convenient, but sometimes nonsense
 gnubash - that’s great, but everyone makes mistakes sometimes
+openbugbounty - ladies and gentlemen, let the hunger games begin!
 debian - my hony quiet and cozy little spot
 kalilinux - my favorite partner, no matter what
 archlinux - those nights were unforgettable. would i want to repeat them? no...
