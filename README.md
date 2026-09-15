@@ -14,6 +14,7 @@
 [![Firefox](https://img.shields.io/badge/-Firefox-rgb%28110%2C55%2C210%29?style=flat&logo=firefoxbrowser&logoColor=orange)](https://www.mozilla.org/firefox/)
 ![Wazuh SIEM](https://img.shields.io/badge/Wazuh%20SIEM-00A9E5?style=flat)
 ![VPN on private VPS server](https://img.shields.io/badge/VPN%20on%20private%20VPS%20server-2E8B57?style=flat)
+[![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat&logo=windows&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/)
 
 
 [![like](https://img.shields.io/badge/like-ffffff?style=flat)](#)
