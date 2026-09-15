@@ -47,6 +47,7 @@
 </div>
 
 ---
-
+<div align=center>
 [![NyaDrown](img/1.gif)]([https://nekos.life/](https://nekos.life/))
 [![NyaPhoto](img/2.gif)]([https://genrandom.com/cats/](https://genrandom.com/cats/))
+</div>
