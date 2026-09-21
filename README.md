@@ -1,6 +1,6 @@
 # blooob~~ i'm a fishy
 <°)))>< 𓆝  𓆜   𓆟    𓆞   °｡⋆ °⋆ ｡
-
+<!--  -->
 
 [![love <3](https://img.shields.io/badge/love-ffffff?style=flat&logo=undertale&logoColor=red)](#)
 [![Burp Suite](https://img.shields.io/badge/-BurpSuite-2B292B?style=flat&logo=burpsuite&logoColor=FF6633)](https://portswigger.net)
@@ -25,7 +25,6 @@
 [![GNU Bash](https://img.shields.io/badge/-bash-black?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
 ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=flat)
 ![Sigma](https://img.shields.io/badge/Sigma-6C63FF?style=flat)
@@ -35,13 +34,14 @@
 
 [![familiar](https://img.shields.io/badge/familiar-ffffff?style=flat)](#)
 [![Hashcat](https://img.shields.io/badge/-HashCat-151514?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
-[![Python](https://img.shields.io/badge/-Python-326C9B?style=flat&logo=python&logoColor=FFE365)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=rgb%28247%2C223%2C30%29)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![OpenBugBounty](https://img.shields.io/badge/-BugHunting-1C1F35?style=flat&logo=openbugbounty&logoColor=orange)]([https://www.openbugbounty.org/](https://www.hackerone.com/))
-[![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![HTML5](https://img.shields.io/badge/-HTML_5-rgb%28227%2C76%2C38%29?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-# [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+<!--[![Python](https://img.shields.io/badge/-Python-326C9B?style=flat&logo=python&logoColor=FFE365)](https://www.python.org/)-->
+<!--[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=rgb%28247%2C223%2C30%29)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
+<!--[![OpenBugBounty](https://img.shields.io/badge/-BugHunting-1C1F35?style=flat&logo=openbugbounty&logoColor=orange)]([https://www.openbugbounty.org/](https://www.hackerone.com/))-->
+<!--[![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)-->
+<!--[![HTML5](https://img.shields.io/badge/-HTML_5-rgb%28227%2C76%2C38%29?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)-->
+<!--[![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)-->
+<!--[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)-->
 
 ---
 
