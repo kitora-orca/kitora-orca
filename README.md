@@ -35,13 +35,13 @@
 [![familiar](https://img.shields.io/badge/familiar-ffffff?style=flat)](#)
 [![Hashcat](https://img.shields.io/badge/-HashCat-151514?style=flat&logo=hashcat&logoColor=white)](https://hashcat.net/hashcat/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-<!--[![Python](https://img.shields.io/badge/-Python-326C9B?style=flat&logo=python&logoColor=FFE365)](https://www.python.org/)-->
-<!--[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=rgb%28247%2C223%2C30%29)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)-->
-<!--[![OpenBugBounty](https://img.shields.io/badge/-BugHunting-1C1F35?style=flat&logo=openbugbounty&logoColor=orange)]([https://www.openbugbounty.org/](https://www.hackerone.com/))-->
-<!--[![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)-->
-<!--[![HTML5](https://img.shields.io/badge/-HTML_5-rgb%28227%2C76%2C38%29?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)-->
-<!--[![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)-->
-<!--[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)-->
+[![Python](https://img.shields.io/badge/-Python-326C9B?style=flat&logo=python&logoColor=FFE365)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=rgb%28247%2C223%2C30%29)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![OpenBugBounty](https://img.shields.io/badge/-BugHunting-1C1F35?style=flat&logo=openbugbounty&logoColor=orange)]([https://www.openbugbounty.org/](https://www.hackerone.com/))
+[![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![HTML5](https://img.shields.io/badge/-HTML_5-rgb%28227%2C76%2C38%29?style=flat&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![PHP](https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 ---
 
